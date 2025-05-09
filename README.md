@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou @SamuelSilva-06
+# 👋 Olá, eu sou Samuel Silva
 
 - 🌱 Atualmente estou estudando no IFCE – Campus **Morada Nova**.
 - 💞️ Estou aberto a colaborar em projetos educacionais, desafios de lógica e atividades voltadas para iniciantes.
