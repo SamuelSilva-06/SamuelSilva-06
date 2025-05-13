@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Samuel Silva
 
-- 🌱 Atualmente estou estudando no IFCE – Campus **Morada Nova**.
+- 🎓 Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas no IFCE – Campus Morada Nova
 - 💞️ Estou aberto a colaborar em projetos educacionais, desafios de lógica e atividades voltadas para iniciantes.
 
 ## 🚀 Tecnologias que estou aprendendo
@@ -8,6 +8,7 @@
 - 💻 Lógica de Programação
 - 🌐 HTML e CSS
 - 🧠 Pensamento Computacional
+- 🗄️ Banco de Dados
 
 ## 📂 Projetos em Destaque
 
