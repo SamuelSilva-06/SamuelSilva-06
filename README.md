@@ -26,6 +26,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-silva-7a1aba364/)
 
 
+##
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SamuelSilva-06&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSilva-06&layout=compact&theme=tokyonight)
 
